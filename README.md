@@ -1,6 +1,6 @@
 # Simulating Triboelectric NanoGenerators[TENG] in Sliding Mode 
 
-###Project Description:
+### Project Description:
 
 The "Simulation of Triboelectric Nanogenerator (TENG) in Sliding Mode using COMSOL" project aims to investigate and model the electrical energy generation process through the triboelectric effect using a specific material pairing: PTFE (polytetrafluoroethylene) as the triboelectrically negative element and nylon as the triboelectrically positive element. This project leverages the capabilities of COMSOL Multiphysics, a powerful finite element analysis software, to simulate and analyze the behavior of the TENG system in a sliding mode configuration.
 
